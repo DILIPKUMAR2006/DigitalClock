@@ -25,6 +25,6 @@ This is a simple JavaFX-based Clock application built with Java 17 and packaged 
 
 ## 🙌 Credits
 
-Built with ❤️ by [Dilip Kumar](https://github.com/your-github-profile](https://github.com/DILIPKUMAR2006))
+Built with ❤️ by [Dilip Kumar](https://github.com/DILIPKUMAR2006)
 
 
