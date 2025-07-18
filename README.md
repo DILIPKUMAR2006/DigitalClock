@@ -4,10 +4,9 @@ This is a simple JavaFX-based Clock application built with Java 17 and packaged 
 
 ## 🚀 How to Run
 
-1. 📥 **[Download the ZIP file here](https://drive.google.com/file/d/1aE9ckCLSS5UVSUXgo1Mna541tsXfny6j/view?usp=drive_link)**  
-2. 📂 **Extract** the ZIP file to any folder.
-3. 🖱️ **Double-click** the `runApp.bat` file.
-4. ✅ The Clock app will launch — no Java setup required!
+1. 📂 **Extract** the ZIP file to any folder.
+2. 🖱️ **Double-click** the `runApp.bat` file.
+3. ✅ The Clock app will launch — no Java setup required!
 
 > ⚠️ Make sure to extract the ZIP file before running. Don’t run it from inside the ZIP archive.
 
